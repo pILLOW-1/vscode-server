@@ -1,0 +1,82 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-ea556c42-8a3f-4a73-9812-78453f01c17b
+Extension host agent listening on /tmp/code-ea556c42-8a3f-4a73-9812-78453f01c17b
+
+[09:55:04] 
+
+
+
+
+[09:55:04] Extension host agent started.
+[09:55:04] [<unknown>][77388fcb][ManagementConnection] New connection established.
+[09:55:04] [<unknown>][00cabf97][ExtensionHostConnection] New connection established.
+[09:55:04] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:04] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:04] Deleted uninstalled extension from disk ms-python.vscode-pylance /root/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1
+[09:55:04] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:04] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:04] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:04] [<unknown>][00cabf97][ExtensionHostConnection] <209281> Launched Extension Host Process.
+[09:55:05] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET read ECONNRESET
+[09:55:05] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:05] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:05] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:05] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:05] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:06] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:06] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:06] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:19] [<unknown>][77388fcb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[09:55:21] [<unknown>][00cabf97][ExtensionHostConnection] <209281> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[09:55:21] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[09:55:21] Last EH closed, waiting before shutting down
+[09:55:27] [<unknown>][42fea067][ExtensionHostConnection] New connection established.
+[09:55:27] [<unknown>][42fea067][ExtensionHostConnection] <209417> Launched Extension Host Process.
+[09:55:27] [<unknown>][ca2b05e2][ManagementConnection] New connection established.
+[09:55:27] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:27] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:28] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:28] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:28] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:28] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:28] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+rejected promise not handled within 1 second: CodeExpectedError: Could not find pty 11 on pty host
+stack trace: CodeExpectedError: Could not find pty 11 on pty host
+    at I.W (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[09:55:29] Error [CodeExpectedError]: Could not find pty 11 on pty host
+    at I.W (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at hs.value (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///root/.vscode-server/cli/servers/Stable-65edc4939843c90c34d61f4ce11704f09d3e5cb6/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29137)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:951:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+[09:55:29] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:29] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
+[09:55:30] [/root/.vscode-server/extensions/github.copilot-chat-0.17.1]: This extension is using the API proposal 'lmTools' that is not compatible with the current version of VS Code.
